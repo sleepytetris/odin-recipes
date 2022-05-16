@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(22, 22, 29);
+    color: rgb(240, 255, 240, 0.6);
+}
+
+/* Type specifications */
+ul {
+    list-style: inside;
+}
+
+#title {
+    text-decoration: underline;
+    color :rgb(240, 255, 240, 0.9);
+    background-color: rgba(34, 34, 45, 0.5);
+}
+#subtitle {
+    color: rgb(222, 184, 135, 0.5);
+}
